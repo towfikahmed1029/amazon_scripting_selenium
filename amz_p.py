@@ -14,11 +14,11 @@ from selenium.common.exceptions import NoSuchElementException
 # os.environ['PS_KEY']
 # if sys.platform in ['Windows', 'win32', 'cygwin']:
 #     mydb = mysql.connector.connect(
-#     host = "database-1.criq1nathhcp.us-west-2.rds.amazonaws.com",
-#     user = "admin",
-#     password = "5HjTd1Fr7e3DS",
-#     database = "affiliate",
-#     port=33360
+#     host = "",
+#     user = "",
+#     password = "",
+#     database = "",
+#     port=
 #     )
 # else:
 #     mydb = mysql.connector.connect(
